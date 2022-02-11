@@ -1,0 +1,1 @@
+Hello, this is a cloned project and this is also a new file
